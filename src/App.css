@@ -1,0 +1,21 @@
+.bg-color{
+  background-color:#6c7b95;
+  border:1px solid;
+}
+.nav{
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+.title{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-padding{
+  padding:10px;
+}
+.card {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.marginclass{
+  margin-top:100px;
+}
